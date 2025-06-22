@@ -1,18 +1,18 @@
+
 # 👋 Hi there, I'm Vivek Verma
 
-### 💻 Passionate Web Developer | 📱 PHP / CodeIgniter Enthusiast | 🛠️ Problem Solver
+### 💻 Passionate Web Developer | ⚙️ Full Stack Enthusiast | 🛠️ Problem Solver
 
-Welcome to my GitHub! I build modern, functional, and responsive web applications — specializing in full-stack PHP development with CodeIgniter, MySQL, and Bootstrap.
+Welcome to my GitHub! I build modern, responsive, and high-performing web applications. My focus is on full-stack development using PHP, CodeIgniter, MySQL, and Bootstrap — but I also love diving into Java, C++, Node.js, and MongoDB for scalable solutions.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently working on **SyncWireless** — a dynamic repair & sales platform for wireless devices.
-- 🌱 Learning **API development**, **AJAX**, and **modern deployment tools**.
-- 💡 Love solving real-world problems with code and optimizing backend performance.
-- 🧠 Always exploring new tech stacks & design systems.
-- 🎯 Goal: Build platforms that **simplify user experience** and **scale effortlessly**.
+- 🌍 Creator of **[WanderRealm](https://passchanger.github.io/WanderRealm/)** — a beautiful travel booking site.
+- 📈 Exploring scalable APIs, modern JS stacks, and backend performance.
+- 🎯 Mission: Build platforms that **solve real-world problems** and **deliver clean UX**.
 
 ---
 
@@ -24,8 +24,13 @@ Welcome to my GitHub! I build modern, functional, and responsive web application
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🛢️ Database & Backend
+### 🛢️ Database & Backend Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
@@ -44,14 +49,11 @@ Welcome to my GitHub! I build modern, functional, and responsive web application
 
 ## 📫 Contact Me
 
-- ✉️ Email: [vivek@example.com](mailto:vivek@example.com)
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📱 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- ✉️ Email: [vivekvermaaug26@gmail.com](mailto:vivekvermaaug26@gmail.com)
+- 🌐 Portfolio: [https://passchanger.github.io/WanderRealm/](https://passchanger.github.io/WanderRealm/)
+- 💼 LinkedIn: [linkedin.com/in/vivek-verma-21a69229a](https://www.linkedin.com/in/vivek-verma-21a69229a)
 
 ---
 
 > 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 > Let’s build better web experiences together!
-
-

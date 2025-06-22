@@ -50,7 +50,7 @@ Welcome to my GitHub! I build modern, responsive, and high-performing web applic
 ## 📫 Contact Me
 
 - ✉️ Email: [vivekvermaaug26@gmail.com](mailto:vivekvermaaug26@gmail.com)
-- 🌐 Portfolio: [https://passchanger.github.io/WanderRealm/](https://passchanger.github.io/WanderRealm/)
+- 🌐 Work: [https://passchanger.github.io/WanderRealm/](https://passchanger.github.io/WanderRealm/)
 - 💼 LinkedIn: [linkedin.com/in/vivek-verma-21a69229a](https://www.linkedin.com/in/vivek-verma-21a69229a)
 
 ---
